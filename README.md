@@ -1,1 +1,1 @@
-# curriculo
+.github.io
