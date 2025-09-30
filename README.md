@@ -1,1 +1,1 @@
-/isacarvalho-dev/github.io
+isacarvalho-dev/github.io
